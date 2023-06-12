@@ -7,4 +7,4 @@ main ブランチは`README.md`以外のファイルを置かないようにし�
 
 ## 各ブランチのリンク
 
-- test
+- [BLOG-139](https://github.com/pentagon-tokyo/pentagon-blog/tree/BLOG-139)
